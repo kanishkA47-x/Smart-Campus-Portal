@@ -1,0 +1,24 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Sensitive information
+.env
+.env.local
+
+# IDE settings
+.idea/
+.vscode/
+
+# Installed JavaScript dependencies
+node_modules/
+
+# Temporary files
+*.log
